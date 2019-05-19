@@ -1,0 +1,48 @@
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Дарья\Desktop\Полинин курсач\CourseWork\obj\Debug\CourseWork.pdb
+C:\Курсач\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Курсач\CourseWork\bin\Debug\CourseWork.exe
+C:\Курсач\CourseWork\bin\Debug\CourseWork.pdb
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.dll
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.xml
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Курсач\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Курсач\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Курсач\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Курсач\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+C:\Курсач\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Курсач\CourseWork\obj\Debug\CourseWork.exe
+C:\Курсач\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Полина\Desktop\Курсач\CourseWork\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Полина\Desktop\Курсач\CourseWork\obj\Debug\CourseWork.pdb
